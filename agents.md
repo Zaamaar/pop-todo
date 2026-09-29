@@ -8,7 +8,7 @@ with water, then pops it (droplets, latex shards, air bubbles) and removes the t
 
 ## Stack (do not add to it without asking)
 - Plain HTML, CSS, vanilla JS. No frameworks, no build step, no dependencies.
-- Hosted on Netlify. Source on a private GitHub repo.
+- Hosted on Netlify. Source on a public GitHub repo.
 
 ## Structure
 - `public/index.html`  markup only
